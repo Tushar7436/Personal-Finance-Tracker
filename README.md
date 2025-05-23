@@ -41,7 +41,7 @@ Real-world deployment experience
 
 
 🗓️ 2-Week Development Schedule
-🔶 Day 1–2: Project Setup & UI Wireframe
+#🔶 Day 1–2: Project Setup & UI Wireframe
 Set up folders for both client and server (client/ & server/)
 
 
@@ -56,7 +56,7 @@ Set up MongoDB Atlas cluster
 
 ✅ Industry Skill: Clean file structure & planning before coding
 
-🔶 Day 3–4: Authentication System
+#🔶 Day 3–4: Authentication System
 Implement user registration and login using JWT
 
 
@@ -77,7 +77,7 @@ Add basic error handling and form validation
 
 
 
-🔶 Day 5–6: Transaction CRUD APIs
+#🔶 Day 5–6: Transaction CRUD APIs
 Backend: Create REST API to handle:
 
 
